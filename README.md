@@ -1,2 +1,2 @@
 # keras_classifier-
-Using Keras for classification 
+Using Keras for classification (classifying NBA players) 
